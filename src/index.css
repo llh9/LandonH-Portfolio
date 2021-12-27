@@ -163,7 +163,7 @@ li {
 }
 
 header {
-  height: 200px;
+  height: 400px;
   position: relative;
   overflow: hidden;
   z-index: 2;
@@ -175,6 +175,7 @@ header h1 {
 }
 
 header img {
+  width: 100%;
   z-index: 0;
   position: absolute;
   top: 0;
